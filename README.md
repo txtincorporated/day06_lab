@@ -1,4 +1,4 @@
-# Static MVC Blog
+# day06_lab
 
 This is a simple blogging system front end. The code is organized with MVC principles in mind.
 
